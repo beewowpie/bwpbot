@@ -27,4 +27,5 @@ xmltodict==0.13.0
 yarl==1.7.2
 pyTelegramBotAPI==4.6.1
 telegram==0.0.1
+lmxl==4.9.1
 
